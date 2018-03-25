@@ -10,7 +10,7 @@ body {
 
 Header, Nav, Section, Aside, and Footer {
     display: block;
-    padding: 15px;
+    padding: 10px;
     margin: 15px;
     background: #ebebeb;
     text-align: center;
@@ -27,7 +27,7 @@ section {
 aside {
     display: block;
     float: right;
-    width: 30%;
+    width: 40%;
     height: 267px;
     overflow: hidden;
 }
@@ -35,7 +35,7 @@ aside {
 article {
     color: #ebebeb;
     background: #777;
-    padding: 15px;
+    padding: 10px;
 }
 
 .clear {
@@ -45,8 +45,8 @@ article {
 h1, p {
     color: #777;
     background: #ebebeb;
-    padding: 15px;
-    margin: 15px;
+    padding: 10px;
+    margin: 10px;
     background: #ebebeb;
     text-align: center;
 }
