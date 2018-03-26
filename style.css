@@ -11,7 +11,7 @@ body {
 Header, Nav, Section, Aside, and Footer {
     display: block;
     padding: 10px;
-    margin: 15px;
+    margin: 10px;
     background: #ebebeb;
     text-align: center;
 }
